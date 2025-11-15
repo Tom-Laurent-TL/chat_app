@@ -1,0 +1,37 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Pytest cache (test runs)
+.pytest_cache/
+# Environment variables
+.env
+# Python compiled files
+*.pyc
+# Python optimized files
+*.pyo
+# Python DLL files
+*.pyd
+# Python version file
+.Python
+# Virtual environment
+env/
+# Virtual environment
+venv/
+# Virtual environment
+.venv/
+# Virtual environment
+ENV/
+# Virtual environment 
+backupenv.bak/
+# Virtual environment 
+backupvenv.bak/
+
+*.db
